@@ -1,0 +1,13 @@
+C:\Users\Anthony Blocton\source\repos\Excercise 13\Excercise 13\obj\Debug\netcoreapp3.1\Excercise 13.csprojAssemblyReference.cache
+C:\Users\Anthony Blocton\source\repos\Excercise 13\Excercise 13\obj\Debug\netcoreapp3.1\Excercise 13.AssemblyInfoInputs.cache
+C:\Users\Anthony Blocton\source\repos\Excercise 13\Excercise 13\obj\Debug\netcoreapp3.1\Excercise 13.AssemblyInfo.cs
+C:\Users\Anthony Blocton\source\repos\Excercise 13\Excercise 13\obj\Debug\netcoreapp3.1\Excercise 13.csproj.CoreCompileInputs.cache
+C:\Users\Anthony Blocton\source\repos\Excercise 13\Excercise 13\bin\Debug\netcoreapp3.1\Excercise 13.exe
+C:\Users\Anthony Blocton\source\repos\Excercise 13\Excercise 13\bin\Debug\netcoreapp3.1\Excercise 13.deps.json
+C:\Users\Anthony Blocton\source\repos\Excercise 13\Excercise 13\bin\Debug\netcoreapp3.1\Excercise 13.runtimeconfig.json
+C:\Users\Anthony Blocton\source\repos\Excercise 13\Excercise 13\bin\Debug\netcoreapp3.1\Excercise 13.runtimeconfig.dev.json
+C:\Users\Anthony Blocton\source\repos\Excercise 13\Excercise 13\bin\Debug\netcoreapp3.1\Excercise 13.dll
+C:\Users\Anthony Blocton\source\repos\Excercise 13\Excercise 13\bin\Debug\netcoreapp3.1\Excercise 13.pdb
+C:\Users\Anthony Blocton\source\repos\Excercise 13\Excercise 13\obj\Debug\netcoreapp3.1\Excercise 13.dll
+C:\Users\Anthony Blocton\source\repos\Excercise 13\Excercise 13\obj\Debug\netcoreapp3.1\Excercise 13.pdb
+C:\Users\Anthony Blocton\source\repos\Excercise 13\Excercise 13\obj\Debug\netcoreapp3.1\Excercise 13.genruntimeconfig.cache
